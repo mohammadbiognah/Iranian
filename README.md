@@ -4,35 +4,36 @@ permalink: "/about/"
 layout: page
 ---
 
-## Installation
+## About me!
 
-Just fork this [repository](https://github.com/niklasbuschmann/contrast) and adjust the `_config.yml` to use with [Github Pages](https://pages.github.com/) and your page is done.
+Welcome! I started my PhD Candidate in Disaster Prevention at the Harbin Institute of Technology (Harbin), China, under the supervision of Prof. Shuang Li in 2022. My research focuses on advanced approaches to mitigate and prevent damages caused by Resilience Progressive collapse. I obtained my MSc. degree (2018) in Earthquake Engineering, at the Iran University of Science and Technology, supervised by Prof. Mohsen Ali Shayanfar. My master's thesis was “New Techniques for Retrofitting of RC Frame against Progressive Collapse”.
 
-## Features
+## RESEARCH TECHNIQUES
 
- - supports dark mode on macOS Mojave
- - optional sidebar
- - MathJax support
- - no external ressources
- - included archive page
- - supports pagination
- - feed generation
- - responsive
- - syntax highlighting
- - supports comments via [disqus](https://disqus.com/) or [isso](http://posativ.org/isso/)
+• Progressive Collapse.
+• Performance Base Design.
+• Tall Buildings (Analysis & Design).
+• Explosion Effect on Structures.
+• Nonlinear Dynamic Analysis of Structures.
+• Seismic Retrofitting of Structures.
+• Structural Vibration Controls.
+• NETWORK Resilience.
+• Evacuation
+• Disaster Prevention
 
-## Based on
 
-- [Hyde](https://github.com/poole/hyde)
-- [Minima](https://github.com/jekyll/minima)
-- [Lagrange](https://github.com/LeNPaul/Lagrange)
-- [Font Awesome](http://fontawesome.io/)
-- [KaTeX](https://katex.org/)
-- [Pygments](https://github.com/richleland/pygments-css)
+## Skills 
 
-## Installation (jekyll-remote-theme method)
+• FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, Perform3D, CsiBridge, Robot Structure.
+• Earthquake: Opensees, SeismoSignal, SeismoMatch, SeismoStruct, SeismoBuild, Opensees Navigator, OpenSees Py.
+• Programming Languages: MATLAB, TCL, VBA, Visual Basic, Python.
+• NETWORK: GeNIe 4.0
 
-You can use this theme with the `jekyll-remote-theme` plugin. Just create an empty repo, copy over the `index.html` file and add this to your `_config.yml`:
+## Experience 
+
+•	Research assistant for Dr. Shayanfar at Center of Excellence for Fundamental Studies in Structural Engineering, Iran University of Science & Technology (IUST), Iran (M.Sc. Degree, 2017 {current}) 
+• Cooperation with Barham Ali Engineering Faculty, Tishk International University, Erbil, Kurdistan Region 44001, Iraq, about Progressive Collapse. 2021 {current}). 
+
 
 ```yaml
 remote_theme: niklasbuschmann/contrast@v2.11
@@ -41,11 +42,7 @@ plugins:
   - jekyll-remote-theme
 ```
 
-Note: to enable icons you also need to copy over the `_data` folder.
 
-## Config
-
-Your `_config.yml` could for example look like this:
 
 ```yaml
 title: "Blog Title"
@@ -82,18 +79,30 @@ plugins:
 
 ```
 
-## MathJax
+## Selected Publications
+#2022
+[1] Ali, B.H., E. Mete Güneyisi, and M. Bigonah, Assessment of Different Retrofitting Methods on Structural Performance of RC Buildings against Progressive Collapse. Applied Sciences, 2022. 12(3): p. 1045. (Published)
 
-Contrast comes preinstalled with a leightweight alternative to MathJax called [KaTeX](https://katex.org/). To display equations in a post simply set `mathjax: true` in the article's front matter.
+#2022
+ [2] M. Bigonah, H. Soltani, M. Zabihi-Samani, and M.A. Shayanfar, “Performance Evaluation of the Effects of All Types of Infill against the Progressive Collapse of Reinforced Concrete Frames, "Asian Journal of Civil Engineering ,2020. (Published)
+
+[3] S. Esmaeili, H. Akbari Aghdam, M. Motififard, SS. Samandari, AH. Montazeran1, M. Bigonah, E. Sheikhbahaei, A. Khandan “A porous polymeric–hydroxyapatite scaffold used for femur fractures treatment: fabrication, analysis, and simulation” journal European Journal of Orthopaedic Surgery & Traumatology, 2020. (Published) 
+
+#2018
+[4] M.A. Shayanfar, M. Bigonah, and D. Sobhani, M. Zabihi-Samani, “The Effectiveness Investigation of New Retrofitting Techniques for RC Frame against Progressive Collapse,” Civil Engineering Journal, 2018. (Published) 
+
+[5] M.A. Shayanfar, D. Sobhani, and M. Bigonah, B. Babakhani, “Simulation and Evaluation of Corrosion Effects on the Reduction of Column Capacity” Mapta Journal of Architecture, Urbanism and Civil Engineering (MJAUCE), 2018. (Published)
+
+
 
 ## License
 
 [public domain](http://unlicense.org/)
 
-## Screenshots
+## References
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431850-cd711780-7a08-11eb-8601-2763f2ee6bb4.png)
+https://scholar.google.com/citations?user=Jcs-EDoAAAAJ&hl=fa 
+https://www.researchgate.net/profile/Seyed_Mohammad_Bigonah_Ghalehsari 
+https://www.scopus.com/authid/detail.uri?authorId=57210584840
 
-![screenshot](https://user-images.githubusercontent.com/4943215/109431832-b6cac080-7a08-11eb-9c5e-a058680c23a1.png)
-
-![screenshot](https://user-images.githubusercontent.com/4943215/73125194-5f0b8b80-3fa4-11ea-805c-8387187503ad.png)
+)
