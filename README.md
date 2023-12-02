@@ -31,6 +31,7 @@ Welcome! I started my PhD Candidate in Disaster Prevention at the Harbin Institu
 • Disaster Prevention.
 
 
+
 ## Skills 
 
 • FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, Perform3D, CsiBridge, Robot Structure.
@@ -43,6 +44,7 @@ Welcome! I started my PhD Candidate in Disaster Prevention at the Harbin Institu
 
 
 • NETWORK: GeNIe 4.0
+
 
 ## Experience 
 
@@ -58,16 +60,17 @@ about Progressive Collapse. 2021 {current}).
 
 
 ## Selected Publications
+
 ##2022
 [1] Ali, B.H., E. Mete Güneyisi, and M. Bigonah, Assessment of Different Retrofitting Methods on Structural Performance of 
 
-RC Buildings against Progressive Collapse. Applied Sciences, 2022. 12(3): p. 1045. [public domain][(Published)][(https://www.mdpi.com/2076-3417/12/3/1](https://doi.org/10.3390/app12031045))
+RC Buildings against Progressive Collapse. Applied Sciences, 2022. 
 
 
 ##2020
  [2] M. Bigonah, H. Soltani, M. Zabihi-Samani, and M.A. Shayanfar, “Performance Evaluation of the Effects of All Types of
  
- Infill against the Progressive Collapse of Reinforced Concrete Frames, "Asian Journal of Civil Engineering ,2020.[public domain][Published][[(https:https://link.springer.com/article/10.1007/s00590-019-02530-3)]](https://link.springer.com/article/10.1007/s42107-019-00208-z)
+ Infill against the Progressive Collapse of Reinforced Concrete Frames, "Asian Journal of Civil Engineering ,2020.
 
  
 
@@ -75,31 +78,26 @@ RC Buildings against Progressive Collapse. Applied Sciences, 2022. 12(3): p. 104
 
 “A porous polymeric–hydroxyapatite scaffold used for femur fractures treatment: fabrication, analysis, and simulation” 
 
-journal European Journal of Orthopaedic Surgery & Traumatology, 2020. ([public domain]([http://[unlicense.org](https://link.springer.com/article/10.1007/s00590-019-02530-3)/](https://link.springer.com/article/10.1007/s00590-019-02530-3)) 
+journal European Journal of Orthopaedic Surgery & Traumatology, 2020. 
 
 ##2018
 
 [4] M.A. Shayanfar, M. Bigonah, and D. Sobhani, M. Zabihi-Samani, “The Effectiveness Investigation of New Retrofitting 
 
-Techniques for RC Frame against Progressive Collapse,” Civil Engineering Journal, 2018. [public domain]([Published](https://www.civilejournal.org/index.php/cej/article/view/825)) 
+Techniques for RC Frame against Progressive Collapse,” Civil Engineering Journal, 2018. 
 
 
 
 [5] M.A. Shayanfar, D. Sobhani, and M. Bigonah, B. Babakhani, “Simulation and Evaluation of Corrosion Effects on the
 
-Reduction of Column Capacity” Mapta Journal of Architecture, Urbanism and Civil Engineering (MJAUCE), 2018. [public domain](https://www.researchgate.net/profile/Mohammad-Bigonah/publication/331873651_Simulation_and_Evaluation_of_Corrosion_Effects_on_the_Reduction_of_Column_Capacity/links/5c910d9b299bf14e7e8672ef/Simulation-and-Evaluation-of-Corrosion-Effects-on-the-Reduction-of-Column-Capacity.pdf))
+Reduction of Column Capacity” Mapta Journal of Architecture, Urbanism and Civil Engineering (MJAUCE), 2018.
 
 
-
-
-## License
-
-[public domain](http://unlicense.org/)
 
 ## References
 
-https://scholar.google.com/citations?user=Jcs-EDoAAAAJ&hl=fa 
-https://www.researchgate.net/profile/Seyed_Mohammad_Bigonah_Ghalehsari 
-https://www.scopus.com/authid/detail.uri?authorId=57210584840
+[https://scholar.google.com/citations?user=Jcs-EDoAAAAJ&hl=fa]
+[https://www.researchgate.net/profile/Seyed_Mohammad_Bigonah_Ghalehsari] 
+[https://www.scopus.com/authid/detail.uri?authorId=57210584840]
 
 )
