@@ -10,7 +10,7 @@ layout: page
 
 ## RESEARCH TECHNIQUES
 
- ##### My research interests include new techniques in modelling and Improve [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart technologies. I also have expertise in  Seismic Retrofitting of Structural Vibration Controls and bridges and high-rise buildings.
+##### My research interests include new techniques in modelling and Improve [Progressive Collapse (https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning (https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart technologies.I also have expertise in  Seismic Retrofitting of Structural Vibration Controls and bridges and high-rise buildings.
 
 
 
@@ -30,12 +30,11 @@ layout: page
 
 ## Experience 
 
-•	Research assistant for Dr. Shayanfar at Center of Excellence for Fundamental Studies in Structural Engineering, Iran 
- University of Science & Technology (IUST), Iran (M.Sc. Degree, 2017 until 2021). 
+###### •	Research assistant for Dr. Shayanfar at Center of Excellence for Fundamental Studies in Structural Engineering, Iran 
+######  University of Science & Technology (IUST), Iran (M.Sc. Degree, 2017 until 2021). 
 
 
-• Cooperation with Barham Ali Engineering Faculty, Tishk International University, Erbil, Kurdistan Region 44001, Iraq, 
- about Progressive Collapse. 2021 until 2022). 
+###### • Cooperation with Barham Ali Engineering Faculty, Tishk International University, Erbil, Kurdistan Region 44001, Iraq, about Progressive Collapse. 2021 until 2022). 
 
 
 
