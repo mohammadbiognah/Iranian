@@ -37,16 +37,16 @@ Welcome! I started my PhD Candidate in Disaster Prevention at the [Harbin Instit
 
 ## Skills 
 
-• [FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, Perform3D, CsiBridge, Robot Structure.](https://www.linkedin.com/in/seyedmohammadbigonah/)
+• FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, Perform3D, CsiBridge, Robot Structure.
 
 
- • [Earthquake: Opensees, SeismoSignal, SeismoMatch, SeismoStruct, SeismoBuild, Opensees Navigator, OpenSees Py.](https://www.linkedin.com/in/seyedmohammadbigonah/)
+ • Earthquake: Opensees, SeismoSignal, SeismoMatch, SeismoStruct, SeismoBuild, Opensees Navigator, OpenSees Py.
 
 
-• [Programming Languages: MATLAB, TCL, VBA, Visual Basic, Python.](https://www.linkedin.com/in/seyedmohammadbigonah/)
+• Programming Languages: MATLAB, TCL, VBA, Visual Basic, Python.
 
 
-• [NETWORK: GeNIe 4.0](https://www.linkedin.com/in/seyedmohammadbigonah/)
+• NETWORK: GeNIe 4.0
 
 
 ## Experience 
