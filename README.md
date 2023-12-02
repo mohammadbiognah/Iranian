@@ -10,8 +10,8 @@ layout: page
 
 ## RESEARCH TECHNIQUES
 
- My research interests include new techniques in modelling and Improve [Progressive Collapse (https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of 
- contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning (https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart technologies.I also have expertise 
+ My research interests include new techniques in modelling and Improve [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of 
+ contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart technologies.I also have expertise 
  in  Seismic Retrofitting of Structural Vibration Controls and bridges and high-rise buildings.
 
 
