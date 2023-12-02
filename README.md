@@ -6,17 +6,11 @@ layout: page
 
 ## About me!
 
-Welcome! I started my PhD Candidate in Disaster Prevention at the [Harbin Institute of Technology](https://www.hit.edu.cn/) 
- (Harbin), China, under the supervision of [Prof. Shuang Li](http://homepage.hit.edu.cn/lishuang) in 2022. My research 
- focuses on advanced approaches to mitigate and prevent damages caused by Resilience Progressive collapse. I obtained my MSc. degree (2018) in Earthquake Engineering, at the [Iran University of Science and Technology](http://www.iust.ac.ir/en), supervised by [Prof. Mohsen Ali Shayanfar](http://www.iust.ac.ir/content/17171/Dr.-M.A.-Shayanfar). My master's thesis was 
-“New Techniques for Retrofitting of RC Frame against Progressive Collapse”.
+##### Welcome! I started my PhD Candidate in Disaster Prevention at the [Harbin Institute of Technology](https://www.hit.edu.cn/) (Harbin), China, under the supervision of [Prof. Shuang Li](http://homepage.hit.edu.cn/lishuang) in 2022. My research focuses on advanced approaches to mitigate and prevent damages caused by Resilience Progressive collapse. I obtained my MSc. degree (2018) in Earthquake Engineering, at the [Iran University of Science and Technology](http://www.iust.ac.ir/en), supervised by [Prof. Mohsen Ali Shayanfar](http://www.iust.ac.ir/content/17171/Dr.-M.A.-Shayanfar). My master's thesis was “New Techniques for Retrofitting of RC Frame against Progressive Collapse”.
 
 ## RESEARCH TECHNIQUES
 
- My research interests include new techniques in modelling and Improve [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of 
- contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart 
- technologies. I also have expertise in  Seismic Retrofitting of Structural Vibration Controls and bridges and high-rise 
- buildings.
+ ##### My research interests include new techniques in modelling and Improve [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart technologies. I also have expertise in  Seismic Retrofitting of Structural Vibration Controls and bridges and high-rise buildings.
 
 
 
