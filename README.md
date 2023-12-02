@@ -13,40 +13,40 @@ Welcome! I started my PhD Candidate in Disaster Prevention at the [Harbin Instit
 
 ## RESEARCH TECHNIQUES
 
- • Progressive Collapse.
+ • [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse).
 
- • Performance Base Design.
+ • [Performance Base Design](https://en.wikipedia.org/wiki/Performance-based_building_design).
 
- • Tall Buildings (Analysis & Design).
+ • [Tall Buildings (Analysis & Design)](https://en.wikipedia.org/wiki/List_of_tallest_buildings).
 
- • Explosion Effect on Structures.
+ • [Explosion Effect on Structures](https://en.wikipedia.org/wiki/Explosion).
 
- • Nonlinear Dynamic Analysis of Structures.
+ • [Nonlinear Dynamic Analysis of Structures](https://wiki.csiamerica.com/display/perform/Nonlinear+dynamic+analysis+capabilities+and+limitations).
 
- • Seismic Retrofitting of Structures.
+ • [Seismic Retrofitting of Structures](https://en.wikipedia.org/wiki/Seismic_retrofit).
 
- • Structural Vibration Controls.
+ • [Structural Vibration Controls](https://link.springer.com/chapter/10.1007/978-981-15-3499-7_1).
 
- • NETWORK Resilience.
+ • [NETWORK Resilience](https://csrc.nist.gov/glossary/term/network_resilience).
 
- • Evacuation.
+ • [Evacuation](https://en.wikipedia.org/wiki/Evacuation).
 
- • Disaster Prevention.
+ • [Disaster Prevention](https://www.oaepublish.com/dpr).
 
 
 
 ## Skills 
 
-### • FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, Perform3D, CsiBridge, Robot Structure.
+• [FEM: Ls_Dyna, Abaqus, Sap2000, Etabs, Safe, Perform3D, CsiBridge, Robot Structure.](https://www.linkedin.com/in/seyedmohammadbigonah/)
 
 
-### • Earthquake: Opensees, SeismoSignal, SeismoMatch, SeismoStruct, SeismoBuild, Opensees Navigator, OpenSees Py.
+ • [Earthquake: Opensees, SeismoSignal, SeismoMatch, SeismoStruct, SeismoBuild, Opensees Navigator, OpenSees Py.](https://www.linkedin.com/in/seyedmohammadbigonah/)
 
 
-### • Programming Languages: MATLAB, TCL, VBA, Visual Basic, Python.
+• [Programming Languages: MATLAB, TCL, VBA, Visual Basic, Python.](https://www.linkedin.com/in/seyedmohammadbigonah/)
 
 
-### • NETWORK: GeNIe 4.0
+• [NETWORK: GeNIe 4.0](https://www.linkedin.com/in/seyedmohammadbigonah/)
 
 
 ## Experience 
