@@ -13,25 +13,10 @@ Welcome! I started my PhD Candidate in Disaster Prevention at the [Harbin Instit
 
 ## RESEARCH TECHNIQUES
 
- • [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse).
-
- • [Performance Base Design](https://en.wikipedia.org/wiki/Performance-based_building_design).
-
- • [Tall Buildings (Analysis & Design)](https://en.wikipedia.org/wiki/List_of_tallest_buildings).
-
- • [Explosion Effect on Structures](https://en.wikipedia.org/wiki/Explosion).
-
- • [Nonlinear Dynamic Analysis of Structures](https://wiki.csiamerica.com/display/perform/Nonlinear+dynamic+analysis+capabilities+and+limitations).
-
- • [Seismic Retrofitting of Structures](https://en.wikipedia.org/wiki/Seismic_retrofit).
-
- • [Structural Vibration Controls](https://link.springer.com/chapter/10.1007/978-981-15-3499-7_1).
-
- • [NETWORK Resilience](https://csrc.nist.gov/glossary/term/network_resilience).
-
- • [Evacuation](https://en.wikipedia.org/wiki/Evacuation).
-
- • [Disaster Prevention](https://www.oaepublish.com/dpr).
+ My research interests include new techniques in modelling and Improve [Progressive Collapse](https://en.wikipedia.org/wiki/Progressive_collapse) methods for structures,Moreover, Network Resilience, with the goal of 
+ contributing to disaster prevention and mitigation. These research topics"Believe Rule  Base with [Deep Learning](https://en.wikipedia.org/wiki/Deep_learning), artificial Intelligence, as well as Smart 
+ technologies. I also have expertise in  Seismic Retrofitting of Structural Vibration Controls and bridges and high-rise 
+ buildings.
 
 
 
